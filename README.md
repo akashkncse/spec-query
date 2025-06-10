@@ -14,4 +14,4 @@ This is a lightweight Retrieval-Augmented Generation (RAG) application designed 
 
 # Output
 
-![Application Output](output.png)
+![Application Output](screenshot/output.png)
